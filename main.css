@@ -232,8 +232,8 @@ a:active {
   }
 
   .members {
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     position: relative;
     top: -50px;
     padding-bottom: 10%;
@@ -265,4 +265,34 @@ a:active {
     top: -50px;
     padding-bottom: 10%;
     border-bottom: 1px solid rgba(127, 123, 123, 0.25);
+  }
+
+  .PI-container {
+
+  }
+
+  .PI {
+
+  }
+
+  .sra-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+
+  .sra {
+    padding: 2%;
+    width: 19em;
+  }
+
+  .gradstudent-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+
+  .gradstudent {
+      padding: 2%;
+      width: 19em;
   }
