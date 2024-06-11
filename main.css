@@ -231,6 +231,24 @@ a:active {
     border-bottom: 1px solid rgba(127, 123, 123, 0.25);
   }
 
+  .members {
+    margin-left: 15%;
+    margin-right: 15%;
+    position: relative;
+    top: -50px;
+    padding-bottom: 10%;
+    border-bottom: 1px solid rgba(127, 123, 123, 0.25);
+  }
+
+  .pastmembers {
+    margin-left: 15%;
+    margin-right: 15%;
+    position: relative;
+    top: -50px;
+    padding-bottom: 10%;
+    border-bottom: 1px solid rgba(127, 123, 123, 0.25);
+  }
+
   .functionalgen {
     margin-left: 15%;
     margin-right: 15%;
