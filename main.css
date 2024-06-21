@@ -101,7 +101,7 @@ a:active {
 
   .fixed-bg {
     background-image: url("images/homepagetelomeres.png");
-    min-height: 500px;
+    min-height: 670px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -110,7 +110,7 @@ a:active {
 
   .fixed-bg-1 {
     background-image: url("images/homepagecyber.png");
-    min-height: 500px;
+    min-height: 700px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -120,7 +120,7 @@ a:active {
 
   .fixed-bg-2 {
     background-image: url("images/HockemeyerLab2021-1-2000x1200.png");
-    min-height: 500px;
+    min-height: 700px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
