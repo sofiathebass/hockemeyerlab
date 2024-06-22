@@ -267,14 +267,6 @@ a:active {
     border-bottom: 1px solid rgba(127, 123, 123, 0.25);
   }
 
-  .PI-container {
-
-  }
-
-  .PI {
-
-  }
-
   .sra-container {
     display: flex;
     flex-flow: row wrap;
